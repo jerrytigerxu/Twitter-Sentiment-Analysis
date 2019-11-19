@@ -553,7 +553,7 @@ plt.show()
 ```
 
 
-![png](images/Twitter%20Sentiment%20Analysis_files/Twitter%20Sentiment%20Analysis_33_0.png)
+![png](/images/Twitter%20Sentiment%20Analysis_files/Twitter%20Sentiment%20Analysis_33_0.png)
 
 
 ### Words in positive tweets
@@ -571,7 +571,7 @@ plt.show()
 ```
 
 
-![png](images/Twitter%20Sentiment%20Analysis_files/Twitter%20Sentiment%20Analysis_35_0.png)
+![png](/images/Twitter%20Sentiment%20Analysis_files/Twitter%20Sentiment%20Analysis_35_0.png)
 
 
 ### Words in negative tweets
@@ -588,7 +588,7 @@ plt.show()
 ```
 
 
-![png](images/Twitter%20Sentiment%20Analysis_files/Twitter%20Sentiment%20Analysis_37_0.png)
+![png](/images/Twitter%20Sentiment%20Analysis_files/Twitter%20Sentiment%20Analysis_37_0.png)
 
 
 ## Dealing with hashtags
@@ -630,7 +630,7 @@ plt.show()
 ```
 
 
-![png](images/Twitter%20Sentiment%20Analysis_files/Twitter%20Sentiment%20Analysis_42_0.png)
+![png](/images/Twitter%20Sentiment%20Analysis_files/Twitter%20Sentiment%20Analysis_42_0.png)
 
 
 
@@ -647,7 +647,7 @@ plt.show()
 ```
 
 
-![png](images/Twitter%20Sentiment%20Analysis_files/Twitter%20Sentiment%20Analysis_43_0.png)
+![png](/images/Twitter%20Sentiment%20Analysis_files/Twitter%20Sentiment%20Analysis_43_0.png)
 
 
 ## Extracting Features from Cleaned Tweets
